@@ -1,0 +1,10 @@
+.background1{
+    width: 100px;
+    height: 200px;
+    background-color: brown;
+}
+.background2{
+    width: 200px;
+    height: 100px;
+    background-color: orange;
+}
